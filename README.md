@@ -10,6 +10,7 @@ This repository contains resources that I have collected / created over time rel
 * [Programming Resources](#programming-resources)
 	* [Python](#python)
 	* [Markdown](#markdown)
+* [Machine Learning / AI](#machine-learning-and-ai)
 
 
 ### Programming Resources
@@ -17,3 +18,8 @@ This repository contains resources that I have collected / created over time rel
 #### Markdown
 * [The Markdown Guide](https://www.markdownguide.org/) - Online Reference Guide 
   - The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.
+
+### Machine Learning and AI
+#### Voice Cloning
+* [Resemble AI](https://www.resemble.ai/) - Commercial Product Website
+  - Complete voice generation AI toolkit solution.
