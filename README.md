@@ -7,8 +7,13 @@ This repository contains resources that I have collected / created over time rel
 - Send a Pull Request
 
 ### Index
-* [Test Link](#test-link)
+* [Programming Resources](#programming-resources)
+	* [Python](#python)
+	* [Markdown](#markdown)
 
 
-
-### Test Link
+### Programming Resources
+#### Python
+#### Markdown
+* [The Markdown Guide](https://www.markdownguide.org/) - Online Reference Guide 
+  - The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.
